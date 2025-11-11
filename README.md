@@ -96,6 +96,7 @@ Para editar colaborativamente:
 2. Todos usam o mesmo repositório do grupo.
 
 **ATENÇÃO**
+
 3. Antes de editar: **File → Revision History → Pull from Git**
 4. Após editar: **Commit & Push**
 
