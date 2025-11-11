@@ -32,8 +32,6 @@ Nesta análise, buscamos responder perguntas como:
 
 | Pasta | Descrição |
 |-------|------------|
-| Pasta | Descrição |
-|-------|------------|
 | `/data/raw` | Dados originais recebidos da NTTData |
 | `/data/processed/bronze` | Dados brutos importados e armazenados no formato interno do Databricks |
 | `/data/processed/prata` | Dados tratados e limpos, prontos para análise |
