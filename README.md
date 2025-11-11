@@ -92,8 +92,9 @@ Os arquivos originais estão armazenados em `/data/raw`.
 ## 🔗 Integração com GitHub e Databricks
 Para editar colaborativamente:
 1. Cada membro conecta seu Databricks à sua conta GitHub:  
-   **User Settings → Git Integration → Link your GitHub account**
+   **Users (clica nos 3 pontos) → Create → Git Folder → Link GitHub**
 2. Todos usam o mesmo repositório do grupo.
+
 **ATENÇÃO**
 3. Antes de editar: **File → Revision History → Pull from Git**
 4. Após editar: **Commit & Push**
