@@ -47,12 +47,12 @@ Nesta análise, buscamos responder perguntas como:
 ## 👥 Integrantes do Projeto
 | Nome | Função |
 |------|---------|
-1. **Susan Capelo** - Coordenação geral, integração das entregas e documentação final  
-2. **Jardel Simplício** - Ingestão e limpeza de dados (base Sinistros)  
-3. **Manoel Nascimento** - Ingestão e limpeza de dados (base Seguros de vida)
-4. **Arthur Cavalcanti** - Análise exploratória e visualizações (Camada Ouro)
-5. **Ramón Taffarel** - Modelagem estatística e geração de indicadores
-6. **Paulo Nery** - Automação, integração e testes no Databricks   
+|1. **Susan Capelo** | Coordenação geral, integração das entregas e documentação final  
+|2. **Jardel Simplício** | Ingestão e limpeza de dados (base Sinistros)  
+|3. **Manoel Nascimento** | Ingestão e limpeza de dados (base Seguros de vida)
+|4. **Arthur Cavalcanti** | Análise exploratória e visualizações (Camada Ouro)
+|5. **Ramón Taffarel** | Modelagem estatística e geração de indicadores
+|6. **Paulo Nery** | Automação, integração e testes no Databricks   
 
 ---
 
