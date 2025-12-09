@@ -79,7 +79,7 @@ Através da implementação da **Arquitetura Medalhão (Bronze, Prata e Ouro)** 
     * **Geografia:** A região **Nordeste** demonstrou ser a mais rentável, enquanto o Centro-Oeste pressiona as margens com maior frequência de sinistros.
 
 2.  **Segmentação de Carteira (Q1 vs Q3):**
-    * Utilizando estatística descritiva (*approxQuantile*), segregamos clientes de **Alto Capital (Q3)** dos clientes de entrada **(Q1)**.
+    * Utilizando estatística descritiva, segregamos clientes de **Alto Capital (Q3)** dos clientes de entrada **(Q1)**.
     * **Insight:** Embora a frequência de acidentes seja similar, o impacto financeiro é discrepante, exigindo esteiras de atendimento diferenciadas (Varejo vs. Prime).
 
 3.  **Auditoria e Compliance:**
